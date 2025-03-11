@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ispearexports.com.ico",
     "slug": "ispearexports",
     "status": "up",
-    "uptime": "69.91%",
-    "uptimeDay": "69.91%",
-    "uptimeWeek": "69.91%",
-    "uptimeMonth": "69.91%",
-    "uptimeYear": "69.91%",
+    "uptime": "73.25%",
+    "uptimeDay": "73.25%",
+    "uptimeWeek": "73.25%",
+    "uptimeMonth": "73.25%",
+    "uptimeYear": "73.25%",
     "time": 7376,
     "timeDay": 7376,
     "timeWeek": 7376,
@@ -162,7 +162,7 @@
     "timeMonth": 336,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2025-03-11": 80
+      "2025-03-11": 94
     }
   },
   {
@@ -182,7 +182,7 @@
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-03-11": 80
+      "2025-03-11": 94
     }
   },
   {
@@ -191,18 +191,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.kingtraderss.com.ico",
     "slug": "accounts-kingtraderss",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 224,
     "timeDay": 224,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-03-11": 80
+      "2025-03-11": 94
     }
   },
   {
@@ -240,7 +240,7 @@
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-03-11": 80
+      "2025-03-11": 94
     }
   },
   {
@@ -284,19 +284,19 @@
     "url": "https://viyaanexport.com",
     "icon": "https://icons.duckduckgo.com/ip3/viyaanexport.com.ico",
     "slug": "viyaanexport",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 4587,
-    "timeDay": 4587,
-    "timeWeek": 4587,
-    "timeMonth": 4587,
-    "timeYear": 4587,
+    "status": "up",
+    "uptime": "84.69%",
+    "uptimeDay": "84.69%",
+    "uptimeWeek": "84.69%",
+    "uptimeMonth": "84.69%",
+    "uptimeYear": "84.69%",
+    "time": 4925,
+    "timeDay": 4925,
+    "timeWeek": 4925,
+    "timeMonth": 4925,
+    "timeYear": 4925,
     "dailyMinutesDown": {
-      "2025-03-11": 0
+      "2025-03-11": 14
     }
   },
   {
@@ -334,7 +334,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 80
+      "2025-03-11": 94
     }
   }
 ]
