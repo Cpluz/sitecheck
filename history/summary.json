@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ispearexports.com.ico",
     "slug": "ispearexports",
     "status": "up",
-    "uptime": "73.25%",
-    "uptimeDay": "73.25%",
-    "uptimeWeek": "73.25%",
-    "uptimeMonth": "73.25%",
-    "uptimeYear": "73.25%",
+    "uptime": "75.62%",
+    "uptimeDay": "75.62%",
+    "uptimeWeek": "75.62%",
+    "uptimeMonth": "75.62%",
+    "uptimeYear": "75.62%",
     "time": 7376,
     "timeDay": 7376,
     "timeWeek": 7376,
@@ -162,7 +162,7 @@
     "timeMonth": 336,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2025-03-11": 94
+      "2025-03-11": 107
     }
   },
   {
@@ -182,7 +182,7 @@
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-03-11": 94
+      "2025-03-11": 107
     }
   },
   {
@@ -202,7 +202,7 @@
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-03-11": 94
+      "2025-03-11": 107
     }
   },
   {
@@ -240,7 +240,7 @@
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-03-11": 94
+      "2025-03-11": 107
     }
   },
   {
@@ -284,19 +284,19 @@
     "url": "https://viyaanexport.com",
     "icon": "https://icons.duckduckgo.com/ip3/viyaanexport.com.ico",
     "slug": "viyaanexport",
-    "status": "up",
-    "uptime": "84.69%",
-    "uptimeDay": "84.69%",
-    "uptimeWeek": "84.69%",
-    "uptimeMonth": "84.69%",
-    "uptimeYear": "84.69%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 4925,
     "timeDay": 4925,
     "timeWeek": 4925,
     "timeMonth": 4925,
     "timeYear": 4925,
     "dailyMinutesDown": {
-      "2025-03-11": 14
+      "2025-03-11": 0
     }
   },
   {
@@ -334,7 +334,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 94
+      "2025-03-11": 106
     }
   }
 ]
