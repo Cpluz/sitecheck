@@ -4,19 +4,19 @@
     "url": "https://www.cpluz.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cpluz.com.ico",
     "slug": "cpluz",
-    "status": "up",
-    "uptime": "97.08%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "97.08%",
-    "uptimeYear": "97.08%",
+    "status": "down",
+    "uptime": "95.28%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "95.28%",
     "time": 9323,
     "timeDay": 9323,
     "timeWeek": 9323,
     "timeMonth": 9323,
     "timeYear": 9323,
     "dailyMinutesDown": {
-      "2025-03-11": 5
+      "2025-03-11": 9
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://vasanthamdoors.com",
     "icon": "https://icons.duckduckgo.com/ip3/vasanthamdoors.com.ico",
     "slug": "vasanthamdoors",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "status": "down",
+    "uptime": "80.31%",
+    "uptimeDay": "80.31%",
+    "uptimeWeek": "80.31%",
+    "uptimeMonth": "80.31%",
+    "uptimeYear": "80.31%",
     "time": 6170,
     "timeDay": 6170,
     "timeWeek": 6170,
     "timeMonth": 6170,
     "timeYear": 6170,
     "dailyMinutesDown": {
-      "2025-03-11": 1
+      "2025-03-11": 31
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://ispearexports.com",
     "icon": "https://icons.duckduckgo.com/ip3/ispearexports.com.ico",
     "slug": "ispearexports",
-    "status": "up",
-    "uptime": "78.42%",
-    "uptimeDay": "78.42%",
-    "uptimeWeek": "78.42%",
-    "uptimeMonth": "78.42%",
-    "uptimeYear": "78.42%",
+    "status": "down",
+    "uptime": "79.07%",
+    "uptimeDay": "79.07%",
+    "uptimeWeek": "79.07%",
+    "uptimeMonth": "79.07%",
+    "uptimeYear": "79.07%",
     "time": 7376,
     "timeDay": 7376,
     "timeWeek": 7376,
     "timeMonth": 7376,
     "timeYear": 7376,
     "dailyMinutesDown": {
-      "2025-03-11": 34
+      "2025-03-11": 39
     }
   },
   {
@@ -166,7 +166,7 @@
     "timeMonth": 336,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2025-03-11": 125
+      "2025-03-11": 155
     }
   },
   {
@@ -175,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kingtraderss.com.ico",
     "slug": "kingtraderss",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "18.29%",
+    "uptimeDay": "18.29%",
+    "uptimeWeek": "18.29%",
+    "uptimeMonth": "18.29%",
+    "uptimeYear": "18.29%",
     "time": 268,
     "timeDay": 268,
     "timeWeek": 268,
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-03-11": 125
+      "2025-03-11": 126
     }
   },
   {
@@ -195,11 +195,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.kingtraderss.com.ico",
     "slug": "accounts-kingtraderss",
     "status": "up",
-    "uptime": "10.07%",
-    "uptimeDay": "10.07%",
-    "uptimeWeek": "10.07%",
-    "uptimeMonth": "10.07%",
-    "uptimeYear": "10.07%",
+    "uptime": "27.27%",
+    "uptimeDay": "27.27%",
+    "uptimeWeek": "27.27%",
+    "uptimeMonth": "27.27%",
+    "uptimeYear": "27.27%",
     "time": 922,
     "timeDay": 922,
     "timeWeek": 922,
@@ -244,7 +244,7 @@
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-03-11": 125
+      "2025-03-11": 155
     }
   },
   {
@@ -252,19 +252,19 @@
     "url": "https://winnovin.com",
     "icon": "https://icons.duckduckgo.com/ip3/winnovin.com.ico",
     "slug": "winnovin",
-    "status": "down",
-    "uptime": "98.49%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "98.49%",
-    "uptimeYear": "98.49%",
-    "time": 11374,
-    "timeDay": 11374,
-    "timeWeek": 11374,
-    "timeMonth": 11374,
-    "timeYear": 11374,
+    "status": "up",
+    "uptime": "79.87%",
+    "uptimeDay": "79.87%",
+    "uptimeWeek": "79.87%",
+    "uptimeMonth": "79.87%",
+    "uptimeYear": "79.87%",
+    "time": 13330,
+    "timeDay": 13330,
+    "timeWeek": 13330,
+    "timeMonth": 13330,
+    "timeYear": 13330,
     "dailyMinutesDown": {
-      "2025-03-11": 2
+      "2025-03-11": 31
     }
   },
   {
@@ -290,19 +290,19 @@
     "url": "https://viyaanexport.com",
     "icon": "https://icons.duckduckgo.com/ip3/viyaanexport.com.ico",
     "slug": "viyaanexport",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 5434,
-    "timeDay": 5434,
-    "timeWeek": 5434,
-    "timeMonth": 5434,
-    "timeYear": 5434,
+    "status": "up",
+    "uptime": "80.81%",
+    "uptimeDay": "80.81%",
+    "uptimeWeek": "80.81%",
+    "uptimeMonth": "80.81%",
+    "uptimeYear": "80.81%",
+    "time": 5692,
+    "timeDay": 5692,
+    "timeWeek": 5692,
+    "timeMonth": 5692,
+    "timeYear": 5692,
     "dailyMinutesDown": {
-      "2025-03-11": 0
+      "2025-03-11": 30
     }
   },
   {
@@ -340,7 +340,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 125
+      "2025-03-11": 154
     }
   }
 ]
