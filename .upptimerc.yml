@@ -37,7 +37,7 @@ sites:
     url: https://viyaanexport.com
   - name: Vihandesigns
     url: https://vihandesigns.com
-  - name: Skyaloft
+  - name: 
     url: https://skyaloft.com
     port: 80
     check: "tcp-ping"
@@ -46,8 +46,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: sitecheck.cpluz.com
-  baseUrl: /sitecheck
+  cname: webcheck.cpluz.com
+  # baseUrl: /sitecheck
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
