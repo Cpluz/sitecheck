@@ -11,8 +11,34 @@ sites:
     url: https://accounts.cpluz.in
   - name: Serverify
     url: https://serverify.in
+  - name: Vasanthamdoors
+    url: https://vasanthamdoors.com
   - name: Ispearexports
     url: https://ispearexports.com
+  - name: Shrijayan
+    url: https://shrijayan.cpluz.com
+  - name: GPU Calculator
+    url: https://calgpu.cpluz.com
+  - name: Aameco
+    url: https://aameco.in
+  - name: Kingtraderss
+    url: https://kingtraderss.com
+  - name: Accounts Kingtraderss
+    url: https://accounts.kingtraderss.com
+  - name: Inventory Kingtraderss
+    url: https://inventory.kingtraderss.com
+  - name: Baseefy
+    url:  https://baseefy.com
+  - name: Winnovin
+    url:  https://winnovin.com
+  - name: Inventory Winnovin
+    url: inventory.winnovin.com
+  - name: Viyaanexport
+    url: https://viyaanexport.com
+  - name: Vihandesigns
+    url: https://vihandesigns.com
+  - name: Skyaloft
+    url: https://skyaloft.com
     port: 80
     check: "tcp-ping"
     ipv6: true
