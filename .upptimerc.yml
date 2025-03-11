@@ -3,16 +3,16 @@ owner: Cpluz # Your GitHub organization or username, where this repository lives
 repo: sitecheck # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: Cpluz
+    url: https://www.cpluz.com
+  - name: Z Accounts
+    url: https://accounts.cpluz.com
+  - name: S Accounts
+    url: https://accounts.cpluz.in
+  - name: Serverify
+    url: https://serverify.in
+  - name: Ispearexports
+    url: http://ispearexports.com/
     port: 80
     check: "tcp-ping"
     ipv6: true
@@ -20,8 +20,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: sitecheck.cpluz.com
-  # baseUrl: /your-repo-name
+  # cname: sitecheck.cpluz.com
+  baseUrl: /sitecheck
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
