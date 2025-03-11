@@ -12,7 +12,7 @@ sites:
   - name: Serverify
     url: https://serverify.in
   - name: Ispearexports
-    url: http://ispearexports.com/
+    url: https://ispearexports.com
     port: 80
     check: "tcp-ping"
     ipv6: true
