@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cpluz.com.ico",
     "slug": "cpluz",
     "status": "down",
-    "uptime": "84.87%",
-    "uptimeDay": "84.87%",
-    "uptimeWeek": "84.87%",
-    "uptimeMonth": "84.87%",
-    "uptimeYear": "84.87%",
+    "uptime": "79.26%",
+    "uptimeDay": "79.26%",
+    "uptimeWeek": "79.26%",
+    "uptimeMonth": "79.26%",
+    "uptimeYear": "79.26%",
     "time": 9227,
     "timeDay": 9227,
     "timeWeek": 9227,
     "timeMonth": 9227,
     "timeYear": 9227,
     "dailyMinutesDown": {
-      "2025-03-11": 41
+      "2025-03-11": 60
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.cpluz.in.ico",
     "slug": "s-accounts",
     "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "97.69%",
+    "uptime": "91.22%",
+    "uptimeDay": "91.22%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "91.22%",
+    "uptimeYear": "91.22%",
     "time": 743,
     "timeDay": 743,
     "timeWeek": 743,
     "timeMonth": 743,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2025-03-11": 6
+      "2025-03-11": 25
     }
   },
   {
@@ -62,18 +62,20 @@
     "url": "https://serverify.in",
     "icon": "https://icons.duckduckgo.com/ip3/serverify.in.ico",
     "slug": "serverify",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.52%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "95.52%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "95.52%",
     "time": 1825,
     "timeDay": 1825,
     "timeWeek": 1825,
     "timeMonth": 1825,
     "timeYear": 1825,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 13
+    }
   },
   {
     "name": "Vasanthamdoors",
@@ -81,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vasanthamdoors.com.ico",
     "slug": "vasanthamdoors",
     "status": "down",
-    "uptime": "71.04%",
-    "uptimeDay": "71.04%",
-    "uptimeWeek": "71.04%",
-    "uptimeMonth": "71.04%",
-    "uptimeYear": "71.04%",
+    "uptime": "65.70%",
+    "uptimeDay": "65.70%",
+    "uptimeWeek": "65.70%",
+    "uptimeMonth": "65.70%",
+    "uptimeYear": "65.70%",
     "time": 8918,
     "timeDay": 8918,
     "timeWeek": 8918,
     "timeMonth": 8918,
     "timeYear": 8918,
     "dailyMinutesDown": {
-      "2025-03-11": 68
+      "2025-03-11": 87
     }
   },
   {
@@ -101,18 +103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ispearexports.com.ico",
     "slug": "ispearexports",
     "status": "down",
-    "uptime": "72.27%",
-    "uptimeDay": "72.27%",
-    "uptimeWeek": "72.27%",
-    "uptimeMonth": "72.27%",
-    "uptimeYear": "72.27%",
+    "uptime": "67.48%",
+    "uptimeDay": "67.48%",
+    "uptimeWeek": "67.48%",
+    "uptimeMonth": "67.48%",
+    "uptimeYear": "67.48%",
     "time": 10037,
     "timeDay": 10037,
     "timeWeek": 10037,
     "timeMonth": 10037,
     "timeYear": 10037,
     "dailyMinutesDown": {
-      "2025-03-11": 74
+      "2025-03-11": 94
     }
   },
   {
@@ -120,18 +122,20 @@
     "url": "https://shrijayan.cpluz.com",
     "icon": "https://icons.duckduckgo.com/ip3/shrijayan.cpluz.com.ico",
     "slug": "shrijayan",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "94.07%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "94.07%",
+    "uptimeMonth": "94.07%",
+    "uptimeYear": "94.07%",
     "time": 695,
     "timeDay": 695,
     "timeWeek": 695,
     "timeMonth": 695,
     "timeYear": 695,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 15
+    }
   },
   {
     "name": "GPU Calculator",
@@ -157,11 +161,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aameco.in.ico",
     "slug": "aameco",
     "status": "up",
-    "uptime": "29.63%",
-    "uptimeDay": "29.63%",
-    "uptimeWeek": "29.63%",
-    "uptimeMonth": "29.63%",
-    "uptimeYear": "29.63%",
+    "uptime": "34.92%",
+    "uptimeDay": "34.92%",
+    "uptimeWeek": "34.92%",
+    "uptimeMonth": "34.92%",
+    "uptimeYear": "34.92%",
     "time": 338,
     "timeDay": 338,
     "timeWeek": 338,
@@ -177,18 +181,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kingtraderss.com.ico",
     "slug": "kingtraderss",
     "status": "down",
-    "uptime": "42.94%",
-    "uptimeDay": "42.94%",
-    "uptimeWeek": "42.94%",
-    "uptimeMonth": "42.94%",
-    "uptimeYear": "42.94%",
+    "uptime": "39.72%",
+    "uptimeDay": "39.72%",
+    "uptimeWeek": "39.72%",
+    "uptimeMonth": "39.72%",
+    "uptimeYear": "39.72%",
     "time": 2058,
     "timeDay": 2058,
     "timeWeek": 2058,
     "timeMonth": 2058,
     "timeYear": 2058,
     "dailyMinutesDown": {
-      "2025-03-11": 134
+      "2025-03-11": 153
     }
   },
   {
@@ -197,18 +201,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.kingtraderss.com.ico",
     "slug": "accounts-kingtraderss",
     "status": "down",
-    "uptime": "49.49%",
-    "uptimeDay": "49.49%",
-    "uptimeWeek": "49.49%",
-    "uptimeMonth": "49.49%",
-    "uptimeYear": "49.49%",
+    "uptime": "45.77%",
+    "uptimeDay": "45.77%",
+    "uptimeWeek": "45.77%",
+    "uptimeMonth": "45.77%",
+    "uptimeYear": "45.77%",
     "time": 922,
     "timeDay": 922,
     "timeWeek": 922,
     "timeMonth": 922,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2025-03-11": 119
+      "2025-03-11": 139
     }
   },
   {
@@ -217,18 +221,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/inventory.kingtraderss.com.ico",
     "slug": "inventory-kingtraderss",
     "status": "down",
-    "uptime": "98.05%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "98.05%",
+    "uptime": "90.68%",
+    "uptimeDay": "90.68%",
+    "uptimeWeek": "90.68%",
+    "uptimeMonth": "90.68%",
+    "uptimeYear": "90.68%",
     "time": 2523,
     "timeDay": 2523,
     "timeWeek": 2523,
     "timeMonth": 2523,
     "timeYear": 2523,
     "dailyMinutesDown": {
-      "2025-03-11": 5
+      "2025-03-11": 24
     }
   },
   {
@@ -248,7 +252,7 @@
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-03-11": 235
+      "2025-03-11": 255
     }
   },
   {
@@ -257,18 +261,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/winnovin.com.ico",
     "slug": "winnovin",
     "status": "down",
-    "uptime": "85.49%",
-    "uptimeDay": "85.49%",
-    "uptimeWeek": "85.49%",
-    "uptimeMonth": "85.49%",
-    "uptimeYear": "85.49%",
+    "uptime": "79.06%",
+    "uptimeDay": "79.06%",
+    "uptimeWeek": "79.06%",
+    "uptimeMonth": "79.06%",
+    "uptimeYear": "79.06%",
     "time": 16464,
     "timeDay": 16464,
     "timeWeek": 16464,
     "timeMonth": 16464,
     "timeYear": 16464,
     "dailyMinutesDown": {
-      "2025-03-11": 34
+      "2025-03-11": 53
     }
   },
   {
@@ -277,18 +281,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/inventory.winnovin.com.ico",
     "slug": "inventory-winnovin",
     "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "uptime": "91.77%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "91.77%",
+    "uptimeMonth": "91.77%",
+    "uptimeYear": "91.77%",
     "time": 1811,
     "timeDay": 1811,
     "timeWeek": 1811,
     "timeMonth": 1811,
     "timeYear": 1811,
     "dailyMinutesDown": {
-      "2025-03-11": 2
+      "2025-03-11": 21
     }
   },
   {
@@ -297,18 +301,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/viyaanexport.com.ico",
     "slug": "viyaanexport",
     "status": "down",
-    "uptime": "80.65%",
-    "uptimeDay": "80.65%",
-    "uptimeWeek": "80.65%",
-    "uptimeMonth": "80.65%",
-    "uptimeYear": "80.65%",
+    "uptime": "74.58%",
+    "uptimeDay": "74.58%",
+    "uptimeWeek": "74.58%",
+    "uptimeMonth": "74.58%",
+    "uptimeYear": "74.58%",
     "time": 5880,
     "timeDay": 5880,
     "timeWeek": 5880,
     "timeMonth": 5880,
     "timeYear": 5880,
     "dailyMinutesDown": {
-      "2025-03-11": 46
+      "2025-03-11": 65
     }
   },
   {
@@ -317,17 +321,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vihandesigns.com.ico",
     "slug": "vihandesigns",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.81%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "95.81%",
+    "uptimeMonth": "95.81%",
+    "uptimeYear": "95.81%",
     "time": 359,
     "timeDay": 359,
     "timeWeek": 359,
     "timeMonth": 359,
     "timeYear": 359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 11
+    }
   },
   {
     "name": "Skyaloft",
@@ -346,7 +352,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 235
+      "2025-03-11": 254
     }
   }
 ]
