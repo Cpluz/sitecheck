@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ispearexports.com.ico",
     "slug": "ispearexports",
     "status": "up",
-    "uptime": "57.93%",
-    "uptimeDay": "57.93%",
-    "uptimeWeek": "57.93%",
-    "uptimeMonth": "57.93%",
-    "uptimeYear": "57.93%",
+    "uptime": "69.91%",
+    "uptimeDay": "69.91%",
+    "uptimeWeek": "69.91%",
+    "uptimeMonth": "69.91%",
+    "uptimeYear": "69.91%",
     "time": 7376,
     "timeDay": 7376,
     "timeWeek": 7376,
@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aameco.in.ico",
     "slug": "aameco",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 336,
     "timeDay": 336,
     "timeWeek": 336,
     "timeMonth": 336,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2025-03-11": 47
+      "2025-03-11": 80
     }
   },
   {
@@ -171,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kingtraderss.com.ico",
     "slug": "kingtraderss",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 268,
     "timeDay": 268,
     "timeWeek": 268,
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-03-11": 47
+      "2025-03-11": 80
     }
   },
   {
@@ -191,18 +191,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.kingtraderss.com.ico",
     "slug": "accounts-kingtraderss",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 224,
     "timeDay": 224,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-03-11": 47
+      "2025-03-11": 80
     }
   },
   {
@@ -240,7 +240,7 @@
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-03-11": 47
+      "2025-03-11": 80
     }
   },
   {
@@ -284,18 +284,20 @@
     "url": "https://viyaanexport.com",
     "icon": "https://icons.duckduckgo.com/ip3/viyaanexport.com.ico",
     "slug": "viyaanexport",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 4587,
     "timeDay": 4587,
     "timeWeek": 4587,
     "timeMonth": 4587,
     "timeYear": 4587,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 0
+    }
   },
   {
     "name": "Vihandesigns",
@@ -321,18 +323,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/skyaloft.com.ico",
     "slug": "skyaloft",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 47
+      "2025-03-11": 80
     }
   }
 ]
