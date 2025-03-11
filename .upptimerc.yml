@@ -28,16 +28,16 @@ sites:
   - name: Inventory Kingtraderss
     url: https://inventory.kingtraderss.com
   - name: Baseefy
-    url:  https://baseefy.com
+    url: https://baseefy.com
   - name: Winnovin
-    url:  https://winnovin.com
+    url: https://winnovin.com
   - name: Inventory Winnovin
-    url: inventory.winnovin.com
+    url: https://inventory.winnovin.com
   - name: Viyaanexport
     url: https://viyaanexport.com
   - name: Vihandesigns
     url: https://vihandesigns.com
-  - name: 
+  - name: Skyaloft
     url: https://skyaloft.com
     port: 80
     check: "tcp-ping"
