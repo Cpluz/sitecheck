@@ -39,9 +39,6 @@ sites:
     url: https://vihandesigns.com
   - name: Skyaloft
     url: https://skyaloft.com
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
