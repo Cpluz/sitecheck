@@ -1,7 +1,7 @@
 url: https://accounts.cpluz.in
-status: up
-code: 200
-responseTime: 577
-lastUpdated: 2025-04-08T23:10:53.375Z
+status: down
+code: 503
+responseTime: 8677
+lastUpdated: 2025-04-10T17:30:20.073Z
 startTime: 2025-03-11T13:23:26.005Z
 generator: Upptime <https://github.com/upptime/upptime>
