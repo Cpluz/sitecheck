@@ -35,8 +35,10 @@ sites:
     url: https://inventory.winnovin.com
   - name: Viyaanexport
     url: https://viyaanexport.com
-  - name: Vihandesigns
+  - name: Vihandesigns COM
     url: https://vihandesigns.com
+  - name: Vihandesigns IN
+    url: https://vihandesigns.in
   - name: Skyaloft
     url: https://skyaloft.com
   - name: Lunux
