@@ -1,7 +1,7 @@
 url: https://inventory.kingtraderss.com
-status: up
-code: 200
-responseTime: 946
-lastUpdated: 2025-04-21T02:45:58.362Z
+status: down
+code: 503
+responseTime: 16832
+lastUpdated: 2025-04-21T03:36:20.047Z
 startTime: 2025-03-11T13:58:11.326Z
 generator: Upptime <https://github.com/upptime/upptime>
