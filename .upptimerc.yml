@@ -5,6 +5,8 @@ repo: sitecheck # The name of this repository
 sites:
   - name: Cpluz
     url: https://www.cpluz.com
+- name: Cpluz Accounts
+    url: https://acc.cpluz.com
   - name: Z Accounts
     url: https://accounts.cpluz.com
   - name: S Accounts
