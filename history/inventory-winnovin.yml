@@ -1,7 +1,7 @@
 url: https://inventory.winnovin.com
-status: down
-code: 503
-responseTime: 10017
-lastUpdated: 2025-07-04T17:09:33.048Z
+status: up
+code: 200
+responseTime: 1242
+lastUpdated: 2025-07-04T17:17:52.502Z
 startTime: 2025-03-11T13:58:25.282Z
 generator: Upptime <https://github.com/upptime/upptime>
