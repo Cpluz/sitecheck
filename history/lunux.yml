@@ -1,7 +1,7 @@
 url: https://lunux.in
-status: up
-code: 200
-responseTime: 2032
-lastUpdated: 2025-07-23T23:13:10.782Z
+status: down
+code: 503
+responseTime: 8963
+lastUpdated: 2025-07-24T13:18:02.048Z
 startTime: 2025-04-12T06:45:28.024Z
 generator: Upptime <https://github.com/upptime/upptime>
