@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "97.68%",
     "uptimeDay": "94.48%",
-    "uptimeWeek": "89.89%",
+    "uptimeWeek": "89.96%",
     "uptimeMonth": "91.63%",
     "uptimeYear": "97.68%",
     "time": 9730,
     "timeDay": 7501,
-    "timeWeek": 9522,
+    "timeWeek": 9620,
     "timeMonth": 8051,
     "timeYear": 9730,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
     "uptimeYear": "91.83%",
     "time": 5855,
     "timeDay": 1450,
-    "timeWeek": 7688,
+    "timeWeek": 7815,
     "timeMonth": 6431,
     "timeYear": 5855,
     "dailyMinutesDown": {
@@ -147,7 +147,7 @@
     "timeMonth": 1125,
     "timeYear": 2478,
     "dailyMinutesDown": {
-      "2025-08-11": 709,
+      "2025-08-11": 726,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
@@ -289,7 +289,7 @@
     "time": 6802,
     "timeDay": 2082,
     "timeWeek": 7052,
-    "timeMonth": 7301,
+    "timeMonth": 7143,
     "timeYear": 6802,
     "dailyMinutesDown": {
       "2025-08-06": 25,
@@ -520,18 +520,19 @@
     "url": "https://kingtraderss.com",
     "icon": "https://icons.duckduckgo.com/ip3/kingtraderss.com.ico",
     "slug": "kingtraderss",
-    "status": "up",
-    "uptime": "90.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "93.48%",
-    "uptimeYear": "90.30%",
+    "status": "down",
+    "uptime": "90.34%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "90.34%",
     "time": 5125,
     "timeDay": 2801,
     "timeWeek": 3995,
-    "timeMonth": 5615,
+    "timeMonth": 5536,
     "timeYear": 5125,
     "dailyMinutesDown": {
+      "2025-08-11": 5,
       "2025-08-06": 23,
       "2025-07-29": 28,
       "2025-07-28": 28,
@@ -596,8 +597,7 @@
       "2025-03-30": 36,
       "2025-03-29": 76,
       "2025-03-28": 597,
-      "2025-03-27": 43,
-      "2025-03-26": 92
+      "2025-03-27": 43
     }
   },
   {
@@ -605,18 +605,19 @@
     "url": "https://accounts.kingtraderss.com",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.kingtraderss.com.ico",
     "slug": "accounts-kingtraderss",
-    "status": "up",
-    "uptime": "94.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "94.30%",
-    "uptimeYear": "94.65%",
+    "status": "down",
+    "uptime": "94.66%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "94.29%",
+    "uptimeYear": "94.66%",
     "time": 9356,
     "timeDay": 2877,
     "timeWeek": 3953,
-    "timeMonth": 4442,
+    "timeMonth": 4360,
     "timeYear": 9356,
     "dailyMinutesDown": {
+      "2025-08-11": 3,
       "2025-08-06": 22,
       "2025-07-29": 26,
       "2025-07-28": 26,
@@ -656,8 +657,7 @@
       "2025-04-11": 123,
       "2025-04-10": 290,
       "2025-04-09": 145,
-      "2025-04-08": 135,
-      "2025-04-05": 18
+      "2025-04-08": 135
     }
   },
   {
@@ -665,18 +665,19 @@
     "url": "https://inventory.kingtraderss.com",
     "icon": "https://icons.duckduckgo.com/ip3/inventory.kingtraderss.com.ico",
     "slug": "inventory-kingtraderss",
-    "status": "up",
-    "uptime": "92.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "92.24%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "94.06%",
-    "uptimeYear": "92.23%",
+    "uptimeYear": "92.24%",
     "time": 4783,
     "timeDay": 1643,
     "timeWeek": 2526,
     "timeMonth": 4306,
     "timeYear": 4783,
     "dailyMinutesDown": {
+      "2025-08-11": 2,
       "2025-07-29": 25,
       "2025-07-28": 25,
       "2025-07-27": 43,
@@ -735,8 +736,7 @@
       "2025-03-25": 465,
       "2025-03-24": 567,
       "2025-03-23": 311,
-      "2025-03-22": 257,
-      "2025-03-19": 24
+      "2025-03-22": 257
     }
   },
   {
@@ -789,7 +789,7 @@
     "time": 8310,
     "timeDay": 3033,
     "timeWeek": 9253,
-    "timeMonth": 9223,
+    "timeMonth": 9055,
     "timeYear": 8310,
     "dailyMinutesDown": {
       "2025-08-01": 21,
@@ -876,7 +876,7 @@
     "time": 4629,
     "timeDay": 925,
     "timeWeek": 3049,
-    "timeMonth": 3529,
+    "timeMonth": 3509,
     "timeYear": 4629,
     "dailyMinutesDown": {
       "2025-07-29": 22,
@@ -1093,7 +1093,7 @@
     "timeMonth": 792,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2025-08-11": 710,
+      "2025-08-11": 727,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
